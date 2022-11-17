@@ -1,0 +1,14 @@
+.searchType{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-bottom: 30px;
+  overflow-x: scroll;
+  padding: 20px;
+}
+
+.searchType li {
+  padding: 5px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
